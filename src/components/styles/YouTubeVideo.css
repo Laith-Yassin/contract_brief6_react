@@ -1,0 +1,30 @@
+.youtube-video-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+  }
+  
+  .video-wrapper {
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .video-player {
+    /* width: 550px; */
+    height: 300px;
+  }
+  
+  .video-text {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 1rem;
+    font-size: large;
+    /* background-color: #f2f2f2; */
+    /* border-radius: 4px; */
+  }
+  
